@@ -77,7 +77,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/itsma3il/itsma3il/output/snake.svg" alt="Snake animation" />
-
-###
